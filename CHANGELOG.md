@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## [1.0.0](https://github.com/curriculum-blackboard/unreal-warehouse-wreckage/compare/0.1.0...1.0.0) - 2022-05-30
+
 -   Course Content ([#4](https://github.com/curriculum-blackboard/unreal-warehouse-wreckage/pull/4))
     -   Lecture 12. Blueprint Event Graph ([e9e3885](https://github.com/curriculum-blackboard/unreal-warehouse-wreckage/commit/e9e3885))
     -   Lecture 13. Physics Simulation ([c301763](https://github.com/curriculum-blackboard/unreal-warehouse-wreckage/commit/c301763))
