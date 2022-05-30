@@ -1,0 +1,16 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "5.0.1",
+    "FriendlyName": "Industry Props Pack",
+    "Description": "Industry Props Pack content for projects using Unreal Engine, developed by silverTm.",
+    "Category": "Content",
+    "CreatedBy": "SilverTm",
+    "CreatedByURL": "http://silvertm.ru/",
+    "SupportURL": "mailto:Alex044se@gmail.com",
+    "EnabledByDefault": true,
+    "CanContainContent": true,
+    "IsBetaVersion": false,
+    "IsExperimentalVersion": false,
+    "Installed": false
+}
